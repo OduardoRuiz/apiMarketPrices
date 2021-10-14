@@ -24,6 +24,8 @@ class UserController extends Controller
         ]);
        
     }
+
+    
     function login(Request $request) { 
 
 
